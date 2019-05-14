@@ -1,0 +1,97 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.section-main-nav{
+    margin-top: 14px;
+}
+.section-navbar-menu{
+    float: left;
+    padding:  14px 20px 0px 20px;
+    padding-top: 14px;
+
+}
+.section-navber-img img{
+width: 100px;
+float: left;
+padding-right: 70px;
+}
+.section-navbar-form{
+    display: inline;
+}
+form{
+    display: inline;
+}
+input[type="text"]{
+    float: left;
+    width: 400px;
+    height: 30px;
+    padding-left: 20px;
+    font-size: 15px;
+
+}
+.section-navbar-button{
+    width: 70px;
+    height: 34px;
+    float: left;
+    margin-right: 70px;
+    box-sizing: border-box;
+    /* border-left: none; */
+}
+.section-navbar-camera{
+float: left;
+padding-right: 30px;
+padding-top: 8px;
+}
+.section-navbar-box{
+float: left;
+padding-right: 30px;
+padding-top: 8px;
+}
+.section-navbar-reload{
+float: left;
+/* margin-left: -100px; */
+padding-right: 30px;
+padding-top: 8px;
+}
+.section-navbar-ball{
+float: left;
+padding-right: 30px;
+padding-top: 8px;
+}
+.section-navbar-profile{
+float: right;
+}
+.box-box{
+    border-bottom: 1px solid black;
+    clear: both;
+    box-shadow: 1px;
+}
+.section-main-body{
+    margin-top: 20px;
+    width: 100%;
+}
+/* .ection-main-body{
+    width: 100%;
+    margin: auto;
+} */
+.section-main-body-one{
+    width: 100%;
+    float: left;
+    display: inline;
+}
+.section-main-body-one-of-one{
+    width: 60%;
+    height: 60vh;
+    /* margin: auto; */
+    margin-left: 16px;
+}
+.section-main-body-two{
+    /* width: 100%; */
+    float: right;
+}
+.section-main-body-two-of-one{
+    /* width: 100%; */
+    width: 100px;
+    background: red;
+}
